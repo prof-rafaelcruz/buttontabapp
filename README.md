@@ -115,6 +115,9 @@ Cada tela (`HomeScreen`, `DetailsScreen`, `SettingsScreen`, `ProfileScreen`) é 
 
 ## 🖼️ Capturas de Tela
 
+### LoginScreen
+![Home Screen](./assets/screenshots/login_screen.png)
+
 ### HomeScreen
 ![Home Screen](./assets/screenshots/home_screen.png)
 
